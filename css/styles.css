@@ -1,0 +1,27 @@
+.column {
+  width: 30%;
+    float: left;
+    padding: 5px;
+    border: 2px solid pink;
+  margin: 5px;
+  background-color: lightblue
+}
+.column {
+  width: 30%;
+  padding: 5px;
+  border: 2px solid pink;
+  margin: 5px;
+  background-color: lightblue
+}
+
+.column {
+  width: 30%
+  padding: 5px;
+  border: 2px solid pink;
+  margin: 5px;
+  background-color: lightblue
+}
+
+.column img {
+  width: 300px;
+}
